@@ -1,11 +1,10 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Brandon </h1>
+<h1 align="center">Hi, I'm Brandon Garate</h1>
 <h3 align="center">Software Developer · SDSU CS Student · Coding Instructor</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brandongarate177/">LinkedIn</a> •
-  <a href="https://brandon.dev">Portfolio</a> •
-  <a href >brandongarate177@gmail.com</a>
+  <a href="https://brandongarate.netlify.app/">Portfolio</a> 
 </p>
 
 ---
