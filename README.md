@@ -21,6 +21,7 @@
 ## Experience
 ##### Full Stack Software Engineer - [CoTeX.md](https://cotex-md.netlify.app/)
 ##### Founding Backend Engineering Intern - [**BarBuddy LLC**](https://apps.apple.com/us/app/barbuddy-bars-in-pb/id6744957081)
+##### Coding Instructor - [Code Ninjas](https://www.codeninjas.com/)
 
 
 
