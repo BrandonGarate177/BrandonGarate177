@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Brandon Garate</h1>
-<h3 align="center">Software Developer · SDSU CS Student · Coding Instructor</h3>
+<h3 align="center">Fullstack SWE · SDSU CS Student · Coding Instructor</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brandongarate177/">LinkedIn</a> •
