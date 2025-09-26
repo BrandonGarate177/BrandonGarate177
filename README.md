@@ -17,8 +17,6 @@
 - Obsessed with **real-time collaboration systems, local first applications, and backend infrastructure**
 
 
-I'm currently dipping my toes in Applied Machine Learning. Check out some of my projects here: 
-
 ---
 
 ## Experience
