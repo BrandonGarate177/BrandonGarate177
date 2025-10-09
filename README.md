@@ -7,28 +7,6 @@
   <a href="https://brandongarate.netlify.app/">Portfolio</a> 
 </p>
 
----
-
-## About Me
-
-- Studying Computer Science at San Diego State University  
-- Fullstack Software Developer focused on building challenging projects
-- Coding Instructor mentoring 65+ students in programming fundamentals
-- Obsessed with **real-time collaboration systems, local first applications, and backend infrastructure**
-
-
----
-
-## Experience
-##### Full Stack Software Engineer - [CoTeX.md](https://cotex-md.netlify.app/)
-##### Founding Backend Engineering Intern - [**BarBuddy LLC**](https://apps.apple.com/us/app/barbuddy-bars-in-pb/id6744957081)
-##### Coding Instructor - [Code Ninjas](https://www.codeninjas.com/)
-
-
-Currently diving deep into embedded systems and IoT development.
-
-
-## Tech Stack
 
 <div align="center">
 
@@ -52,15 +30,28 @@ Currently diving deep into embedded systems and IoT development.
 
 </div>
 
+---
+## About Me
+
+- Studying Computer Science at San Diego State University  
+- Fullstack Software Developer always building challenging projects
+- Obsessed with **real-time collaboration systems, local first applications, and backend infrastructure**
+
 
 
 
 
 ---
-
 ## Currently Learning
+- Embedded systems & IoT (ESP-IDF, low-power firmware)
 - Real-time collaborative systems
-- Local-first file sync architectures
-- Advanced backend infrastructure (Go + Postgres + Cloud Run)
+- Local-first sync architectures
+- Cloud-native backend infrastructure (Go + Postgres + Cloud Run)
+
+
+
+
+
+
 
 
