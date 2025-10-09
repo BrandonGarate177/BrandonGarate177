@@ -25,6 +25,8 @@
 ##### Coding Instructor - [Code Ninjas](https://www.codeninjas.com/)
 
 
+Currently diving deep into embedded systems and IoT development.
+
 
 ## Tech Stack
 
