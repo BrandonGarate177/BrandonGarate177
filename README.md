@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Brandon Garate</h1>
+<h1 align="center">What's Up, I'm Brandon Garate</h1>
 <h3 align="center">Fullstack SWE · SDSU CS Student · Coding Instructor</h3>
 
 <p align="center">
