@@ -31,22 +31,16 @@
 </div>
 
 ---
+## Current Ondoings: 
+
+- Builing @ https://ix-infra.com
+- Cloud Engineering Intern @ https://www.echostar.com
+
+---
 ## About Me
 
 - Studying Computer Science at San Diego State University  
-- Fullstack Software Developer always building challenging projects
-- Obsessed with **real-time collaboration systems, local first applications, and backend infrastructure**
-
-
-
-
-
----
-## Currently Learning
-- Embedded systems & IoT (ESP-IDF, low-power firmware)
-- Real-time collaborative systems
-- Local-first sync architectures
-- Cloud-native backend infrastructure (Go + Postgres + Cloud Run)
+- I love mountain biking, surfing, and am currently training for my first Marathon
 
 
 
