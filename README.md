@@ -33,7 +33,6 @@
 ---
 ## Current Ondoings: 
 
-- Builing @ https://ix-infra.com
 - Cloud Engineering Intern @ https://www.echostar.com
 
 ---
