@@ -38,7 +38,7 @@
 ---
 ## About Me
 
-- Studying Computer Science at San Diego State University  
+- Studying Computer Science @ San Diego State University  
 - I love mountain biking, surfing, and am currently training for my first Marathon
 
 
