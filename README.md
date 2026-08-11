@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">What's Up, I'm Brandon Garate</h1>
-<h3 align="center">Fullstack SWE · SDSU CS Student · Coding Instructor</h3>
+<h3 align="center">SWE | AI Engineer | CS Student @ SDSU</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brandongarate177/">LinkedIn</a> •
@@ -33,13 +33,13 @@
 ---
 ## Current Ondoings: 
 
-- Cloud Engineering Intern @ https://www.echostar.com
+- Cloud Auntomation Engineering Intern @ [EchoStar](https://www.echostar.com)
 
 ---
 ## About Me
 
 - Studying Computer Science @ San Diego State University  
-- I love mountain biking, surfing, and am currently training for my first Marathon
+- I love hiking, mountain biking, skating, and am currently training for my first Marathon
 
 
 
