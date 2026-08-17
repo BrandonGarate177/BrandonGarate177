@@ -33,7 +33,7 @@
 ---
 ## Current Ondoings: 
 
-- Cloud Auntomation Engineering Intern @ [EchoStar](https://www.echostar.com)
+- Building @ [VibeDrift.ai](https://www.vibedrift.ai/)
 
 ---
 ## About Me
