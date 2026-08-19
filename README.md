@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brandongarate177/">LinkedIn</a> •
-  <a href="https://brandongarate.netlify.app/">Portfolio</a> 
+  <a href="https://brandon-garate.com/">Portfolio</a> 
 </p>
 
 
@@ -30,7 +30,8 @@
 
 </div>
 ---
-## About Me
+## 
+About Me
 
 - Studying Computer Science @ San Diego State University  
 - I love hiking, mountain biking, skating, and am currently training for my first Marathon
