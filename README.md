@@ -1,11 +1,13 @@
 <!-- Profile Header -->
 <h1 align="center">What's Up, I'm Brandon Garate</h1>
-<h3 align="center">SWE | AI Engineer | CS Student @ SDSU</h3>
+<h3 align="center">AI Engineer @ <a href="https://opdo.ai/">opdo</a> | CS Student @ SDSU</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brandongarate177/">LinkedIn</a> •
   <a href="https://brandon-garate.com/">Portfolio</a> 
 </p>
+
+
 
 
 <div align="center">
